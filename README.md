@@ -2,9 +2,9 @@
 
 ## Table of Contenta
 
- - [Project Overview]()
- - [Data Sources]()
- - [Recommendations]()
+ - [Project Overview](Project-Overview)
+ - [Data Sources](Data-Sources)
+ - [Recommendations](Recommendations)
 
 ### Project Overview
 
