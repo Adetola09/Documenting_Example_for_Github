@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis
 
-## Table of Contenta
+## Table of Contents
 
  - [Project Overview](Project-Overview)
  - [Data Sources](Data-Sources)
