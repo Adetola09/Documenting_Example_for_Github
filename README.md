@@ -7,11 +7,11 @@
  - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 <img width="502" height="452" alt="bar plot" src="https://github.com/user-attachments/assets/5aa67557-eead-4f42-8a19-2cf4c800904e" />
-
 
 
 ### Data Sources
@@ -72,4 +72,19 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 1. SQL for Businesses by Monumental.
 2. [Stack Overflow](https://stack.com)
+
+😄
+
+💻
+
+|Headings1|Headings2|Headings3|
+|---------|---------|---------|
+|Content|Content2|Content3|
+|Python|SQL|Excel|
+
+`Column_1`
+
+**Bold**
+
+*Italic*
 
